@@ -21,6 +21,19 @@ MHS 1.0 is developing a belief tracking, elimination system.
 - Option to create, edit, remove custom components/elements that can be added with the QuickAdd tool
 - Option to click to select types and categories (instead of browsing and scrolling a list, just clicking on a box that says thought or assumption, etc.)
 - When dealing with a sentence, and having a selection, it provides options to add metas such as "assumption", and an option to provide a study or logic-tree to something
+- Option to add precise, specific definitions for every single word that makes up an entire belief
+- Option to list all possible imaginable scenarios to help bring out beliefs and associations, such as listing every possible reason one would eat trash food or drink alcohol and then use those listed imaginary possible events to extract beliefs and associations
+- Option to somehow add general problems in our life into a list, as draft versions, and then option to edit them to finalize them and articulate them, and then option to use a Problem Analysis tool to identify what the real problem(s) is/are and to write out alternative ways one can see it could possibly be resolved, to list out variables that play a role, and link up things, to possibly create some sort of flowchart or graph even where one has a good overview of the nature and structure of the problem (hence it would aid solving any problem in general life, especially in the context of relationships)
+- Option to specify a context to get more specified tools and elements better fitting the situation (such as context being Relationships or RomanticRelationships)
+- Smart suggest, which if detects certain keywords like 'relationship' then suggests adding a context such as "relationship" or "romantic relationship"
+- Tools to help identify where in our life we experience and have such and such patterns
+- Section for "self-knowledge"
+- Place for venting emotions (history and categories added) and getting anything out of one's mind
+- Option to choose from common existing beliefs by category (such as "productivity" or "self-discipline")
+- Questionnaire to help figure out your values (set of beliefs) and to help identify conflict in one's mind and acknowledge it
+- Tool to help identify where you do not admit something, to accept new things.
+- The elimination tool should pop up at each stage options to help make sure the person got through the step, hence clicking on some boxes that they agree with that appear to get the next step; or get analogies or examples from us how to think about it; hence if they did not get we'll give them more boxes with ideas to look into the belief
+- Each commonly asked question is explained everywhere
 
 
 ## App logic:
